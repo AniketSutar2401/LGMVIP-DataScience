@@ -7,9 +7,9 @@ In this Project the iris dataset are classify using three different ML Algorithm
 2)Logistic Regression
 3)Support Vector Machine(SVM)
 The project is going  like this -
--Importing the libraries
--Read the data from the dataset
--Checking for null values
+- Importing the libraries
+- Read the data from the dataset
+- Checking for null values
 -Check the datatype of data
 -Describe the dataset
 -Data Visualization

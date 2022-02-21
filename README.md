@@ -6,7 +6,7 @@
 - 1)KNN
 - 2)Logistic Regression
 - 3)Support Vector Machine(SVM)
--** The project is going  like this -**
+- **The project is going  like this -**
 - Importing the libraries
 - Read the data from the dataset
 - Checking for null values

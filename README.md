@@ -17,3 +17,18 @@
 - Split data into training and testing set
 - Impelement the model
 - Check Accuracy
+-
+- **Task 2: Stock Market Prediction and forecasting using stacked LSTM:**
+- In this Project the nse-tataglobal dataset are classify using  ML Algorithm 
+- 1)Stacked LSTM
+- **The project is going  like this -**
+- Importing the libraries
+- Importing dataset
+- Gathering information about the data
+- Data Cleaning
+- Data Visualization
+- Apply MinMax Scaler
+- Split data into training and testing set
+- Check Predictions and performance matrix 
+- Shift Training and Testing Predictions for ploting
+- Plot Baseline and Predictions

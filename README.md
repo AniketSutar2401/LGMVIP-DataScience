@@ -32,3 +32,15 @@
 - Check Predictions and performance matrix 
 - Shift Training and Testing Predictions for ploting
 - Plot Baseline and Predictions
+-
+- **Task 4: Image to Pencil Sketch with Python:**
+- In this Project I have to do the image processing
+-  **The project is going  like this -**
+- Importing the libraries
+- Loading the image
+- Converting the RBG image into Grey-Scale image
+- Inverting the image
+- Smoothing the image
+- Final Output Original image and Pencil-Sketch image
+- 
+
